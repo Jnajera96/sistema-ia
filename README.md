@@ -16,3 +16,5 @@ de Sistemas de Inteligencia Artificial.
 - Modelo de IA 
 - Docker para alojar en la nube
 - Gestor de API´s 
+## Estado del proyecto 
+Prototipo inicial.
