@@ -13,3 +13,7 @@ checkpoints/
 
 # Credenciales e informacion privada
 .env
+
+# Carpeta de trabajo del asistente (no es parte del proyecto)
+.workbuddy-ai/
+RESPUESTAS_ACTIVIDAD_Git_GitHub.md
