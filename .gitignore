@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datasets, modelos entrenados y checkpoints (punto 26)
+data/
+models/
+checkpoints/
+*.pt
+*.pth
+*.h5
+
+# Credenciales e informacion privada
+.env
